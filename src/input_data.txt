@@ -1,0 +1,14 @@
+Create_parking_lot 6
+Park KA-01-HH-1234 driver 21
+Park KA-01-HH-9999 driver 21
+Park KA-01-BB-0001 driver 20
+Park KA-01-HH-7777 driver 18
+Park KA-01-HH-2701 driver 19
+Park KA-01-HH-3141 driver 20
+Leave 4
+Park KA-01-P-333 driver 21
+Park DL-12-AA-9999 driver 21
+Vehicle_registration_number_for_driver_of_age 21
+Slot_numbers_for_driver_of_age 21
+Slot_number_for_car_with_number KA-01-HH-3141
+Slot_number_for_car_with_number MH-04-AY-1111
